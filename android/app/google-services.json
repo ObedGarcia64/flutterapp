@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621028279413",
+    "project_id": "tidbis41mobed",
+    "storage_bucket": "tidbis41mobed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621028279413:android:b07c5631a11c54aeaea43c",
+        "android_client_info": {
+          "package_name": "com.example.tidbisexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621028279413-kf0rij8fcuuotr5n9qncie4v7a1ttr7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tidbisexample",
+            "certificate_hash": "3d2bad6eb1de07a9dab1c6f1fdd8ecd536c171b2"
+          }
+        },
+        {
+          "client_id": "621028279413-4id859cst776o9ierkn6ehe9qbflep1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZe66aSpcYnsSLM8YdqgGVHsPKaeejjuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621028279413-4id859cst776o9ierkn6ehe9qbflep1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
